@@ -1,0 +1,13 @@
+Plik: calgorithms.cpp
+
+/*-----------------------------------------------------------------------------+
+|               Implementation of the AlgorithmFactory class               |
++-----------------------------------------------------------------------------*/
+ Niepotrzebne komentarze, po co dodawać taki kometarz skoro klasa nazywa się AlgorithmFactory.
+
+	// normal code of the bubble sort algorith is:
+	//     for (i = 0; i < m_viArray.GetSize()-1; ++i) {
+	//         for (j = m_viArray.GetSize()-1; j > i; --j)
+	//             CAlgorithm::CompExch(m_viArray[j-1], m_viArray[j]);
+	//     }
+Nieużywany kod.
